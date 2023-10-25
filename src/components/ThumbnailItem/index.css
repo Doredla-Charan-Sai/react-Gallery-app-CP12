@@ -1,0 +1,11 @@
+/* Write your code here. */
+
+.btn {
+  outline: none;
+  background-color: transparent;
+  border: none;
+}
+.img {
+  height: 40px;
+  width: 40px;
+}

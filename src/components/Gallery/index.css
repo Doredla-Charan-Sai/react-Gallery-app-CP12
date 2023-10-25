@@ -1,0 +1,41 @@
+/* Write your code here. */
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0px;
+}
+.bg-cont {
+  background-color: white;
+  background-size: cover;
+  height: 600px;
+  width: 600px;
+  padding: 50px;
+}
+.content-cont {
+  display: flex;
+  flex-direction: column;
+}
+.main-img {
+  width: 100%;
+  height: 30%;
+}
+.main-head {
+  font-family: 'Roboto';
+  font-size: 20px;
+  color: black;
+  font-weight: bold;
+}
+.main-para {
+  font-family: 'Roboto';
+  font-size: 13px;
+  color: black;
+}
+.images-list-cont {
+  margin: 0px;
+  padding: 0px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  list-style: none;
+}
